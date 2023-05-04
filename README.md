@@ -79,6 +79,11 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-cleanup.html
 ## Demo Video
 
 
+
+https://user-images.githubusercontent.com/71317967/236096999-f6f110cf-43ca-4f21-b031-0a18fffbc3a0.mp4
+
+
+
 ## References
 [ref articles](https://aws.amazon.com/blogs/machine-learning/deploy-trained-keras-or-tensorflow-models-using-amazon-sagemaker/)
 
